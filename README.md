@@ -1,2 +1,4 @@
 # shopifyknowledgebase
-My knowledge base for Shopify development. Hope this helps others.
+Knowledge base for Shopify development. Hope this helps others.
+
+Hasan
